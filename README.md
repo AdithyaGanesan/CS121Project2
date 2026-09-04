@@ -1,9 +1,9 @@
 # CS121Project2
 
-##Introduction to C
+## Introduction to C
 hi.c -- classic Hello, World! program. algorithm inside hi.txt
 
-##Guess A Number Game
+## Guess A Number Game
 numberGuesser.c
 
 access the i/o system
