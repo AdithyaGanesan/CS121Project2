@@ -23,11 +23,9 @@ create void guessing function with the correct number as a parameter
 create integer main function
     generate random integer between 1 and 100
     store number in int variable called correct
-    
     ask user for name
     store name in string
-    
     each turn, add one to count
     stop when the correct number is guessed
-    give user feedback based on number of turns taken -- above 7 is poor, above 5 is good, below 5 is very good 
+    give user feedback based on number of turns taken -- above 7 is poor, above 5 is good, below 5 is very good
 
